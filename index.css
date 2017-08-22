@@ -1,0 +1,15 @@
+@charset "utf-8";
+/*以下为头部*/
+.nav span a{position: absolute;
+     top: 0px;
+      left: 75px;}
+.nav li a{font-size: 12px;
+         height: 44px;
+         line-height: 44px;
+         color: white;
+         float: left;
+         margin: 0 28px;}      
+.nav ul{margin-left:161px ;
+        }
+.nav{background: url(images/header_bj.png) no-repeat;
+    height: 44px;}
